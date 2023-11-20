@@ -1,0 +1,68 @@
+{
+  "id": "illadrya-compendium",
+  "title": "Illadrya Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "download": "https://www.dropbox.com/scl/fi/vx0tzn3z52xullsmq2vuv/illadrya.zip?rlkey=cmhfyecz6n92spfem2f82llcp&dl=0",
+  "manifest": "https://www.dropbox.com/scl/fi/j20lrk2jmq29ta16ofaky/module.json?rlkey=cyekv78639emlc2xu9un181r0&dl=0",
+  "packs": [
+    {
+      "name": "illadrya-subclasses",
+      "label": "Illadrya Subclasses",
+      "path": "packs/illadrya-subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "illadrya-classes",
+      "label": "Illadrya Classes",
+      "path": "packs/illadrya-classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "illadrya-spells",
+      "label": "Illadrya Spells",
+      "path": "packs/illadrya-spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "illadrya-class-features",
+      "label": "Illadrya Class Features",
+      "path": "packs/illadrya-class-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "illadrya-roll-tables",
+      "label": "Illadrya Roll Tables",
+      "path": "packs/illadrya-roll-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
