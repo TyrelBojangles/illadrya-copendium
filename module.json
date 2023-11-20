@@ -1,13 +1,16 @@
 {
   "id": "illadrya-compendium",
   "title": "Illadrya Compendium",
+  "description": "A compendium for the world of Illadrya for DnD 5e",
+  "authors": [{"name":"Taira"}],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "download": "https://www.dropbox.com/scl/fi/vx0tzn3z52xullsmq2vuv/illadrya.zip?rlkey=cmhfyecz6n92spfem2f82llcp&dl=0",
-  "manifest": "https://www.dropbox.com/scl/fi/j20lrk2jmq29ta16ofaky/module.json?rlkey=cyekv78639emlc2xu9un181r0&dl=0",
+  "url": "https://github.com/TyrelBojangles/illadrya-copendium/"
+  "download": "https://github.com/TyrelBojangles/illadrya-copendium/blob/main/illadrya.zip",
+  "manifest": "https://github.com/TyrelBojangles/illadrya-copendium/blob/main/module.json",
   "packs": [
     {
       "name": "illadrya-subclasses",
