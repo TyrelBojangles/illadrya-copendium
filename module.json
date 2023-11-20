@@ -9,8 +9,8 @@
     "verified": "11"
   },
   "url": "https://github.com/TyrelBojangles/illadrya-copendium/",
-  "download": "https://github.com/TyrelBojangles/illadrya-copendium/blob/main/illadrya.zip",
-  "manifest": "https://github.com/TyrelBojangles/illadrya-copendium/blob/main/module.json",
+  "download": "https://raw.githubusercontent.com/TyrelBojangles/illadrya-copendium/main/illadrya.zip",
+  "manifest": "https://raw.githubusercontent.com/TyrelBojangles/illadrya-copendium/main/module.json",
   "packs": [
     {
       "name": "illadrya-subclasses",
